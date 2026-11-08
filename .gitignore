@@ -1,0 +1,5 @@
+.env
+venv/
+sample_resume.pdf
+__pycache__/
+desktop.ini

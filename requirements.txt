@@ -1,0 +1,4 @@
+   pypdf
+   groq
+   python-dotenv
+   streamlit
